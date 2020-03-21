@@ -1,0 +1,20 @@
+Resources utilized in this project:
+
+Artwork:
+--------
+3 original spaceship png-s
+
+non-original:
+Explosion animation png (exp2_0.png) - free - https://opengameart.org/
+2 earth png pictures (earth_PNG36.png, polluted earth.png) - free - https://pngtree.com/
+background image (jeremy-perkins-3kTaHlfkIlA-unsplash.jpg) (edited for this game) - free - Jeremy Perkins from Unsplash.com
+an image (johny-goerend-Oz2ZQ2j8We8-unsplash.jpg) - free - by Johny Goerend from Unsplash.com
+4 diffrent sound effects (boom1.wav, MyVeryOwnDeadShip.ogg, ObservingTheStar.ogg, sadorchestralbgm(syncopika).wav) - free - https://opengameart.org/
+
+
+Code:
+----
+Special thanks to "Brackeys" and "Pixelelement Games" Youtube Channels for thier amazing Youtube tutorials.
+Extremely helpful and critical tutorial that helped me structure my code: https://youtu.be/HvMrOoUeqO0 by "Brackeys"
+I copied a list of random words from https://gist.github.com/chrisjacob/6026762
+

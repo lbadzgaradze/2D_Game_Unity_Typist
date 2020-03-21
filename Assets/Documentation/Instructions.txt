@@ -1,0 +1,7 @@
+The objective of this game is to keep earth safe for as long as possible.
+Shapceships are attacking the Earth and you need to type the word associated with each of them to blow them up.
+Once you start typing a word, it gets activated (it gets marked red); if you input a wrong letter you get penaltized. If you blow up the spaceship you get points.
+As you get more points, game gets harder:
+-chances that you will encounter increases.
+-speed and quanity also increases incrementally.
+-penalty and reward increases incrementally.

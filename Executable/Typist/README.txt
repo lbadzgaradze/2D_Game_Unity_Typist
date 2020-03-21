@@ -1,0 +1,1 @@
+Typist supports 16:9 resolution.
